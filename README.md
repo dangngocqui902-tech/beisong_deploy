@@ -1,3 +1,5 @@
 # beisong_deploy
 
-install-beisong.ps1 - Windows installer.
+Windows installers.
+- install-beisong.ps1：背诵系统
+- install-rike.ps1：日课
